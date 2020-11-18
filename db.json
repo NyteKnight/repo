@@ -1,5 +1,5 @@
 {
-  "users": [
+  "members": [
     {"id": 1, "firstname": "Tash","lastname" : "PeeBoi"},
     {"id": 2, "firstname": "Chan","lastname" : "Lion"},
     {"id": 3, "firstname": "Mery","lastname" : "ChipsYSalsa"},
