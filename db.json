@@ -1,31 +1,11 @@
 {
   "users": [
-    {"id": 1,"firstname": "Tash","lastname" :"PeeBoi"},
-    {
-      "id": 2,
-      "firstname": "Chan",
-      "lastname" :"Lion"
-    },
-        {
-      "id": 3,
-      "firstname": "Mery",
-      "lastname" :"ChipsYSalsa"
-    },
-    {
-      "id": 4,
-      "firstname": "Nyte",
-      "lastname" :"Knight"
-    },
-    {
-      "id": 5,
-      "firstname": "Nyte",
-      "lastname" :"King"
-    },
-    {
-      "id": 6,
-      "firstname": "Saul",
-      "lastname" :"PeeBoi"
-    }
+    {"id": 1, "firstname": "Tash","lastname" : "PeeBoi"},
+    {"id": 2, "firstname": "Chan","lastname" : "Lion"},
+    {"id": 3, "firstname": "Mery","lastname" : "ChipsYSalsa"},
+    {"id": 4, "firstname": "Nyte","lastname" : "Knight"},
+    {"id": 5, "firstname": "Nyte", "lastname" :"King"},
+    {"id": 6, "firstname": "Saul", "lastname" :"PeeBoi"}
   ],
     "profile": {
     "name": "NyteKnight"
